@@ -1,0 +1,26 @@
+body {
+background-color: blue;
+}
+#title {
+color: white;
+text-align: center;
+font-weight: bold;
+}
+#paragraph1 {
+color: green;
+text-align: left;
+font-style: italic;
+font-size: 1.5em;
+}
+#paragraph2 {
+color: orange;
+text-align: right;
+font-size: 1.5em;
+text-decoration: underline;
+}
+#paragraph3 {
+color: lime;
+text-align: left;
+font-style: bold;
+font-size: 1.5em;
+}
